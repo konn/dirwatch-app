@@ -1,0 +1,16 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/Main.hs,266
+module Main Main3,4
+type NSImage NSImage25,26
+type NSWorkspace NSWorkspace26,27
+getFileIcon getFileIcon31,32
+getFileIcon getFileIcon32,33
+main main37,38
+main main38,39
+notify notify46,47
+notify notify47,48
+signal signal51,52
+signal signal52,53
